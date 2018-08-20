@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="haryana">#23b14d</color>
+    <color name="punjab">#fef200</color>
+    <color name="manipur">#ed1b24</color>
+    <color name="rajsthan">#b97a57</color>
+</resources>
